@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Bienvenidos a [Nombre del Repositorio] 🎉
+
+¡Hola! Este es el repositorio de [Nombre del Proyecto]. Aquí encontrarás [una breve descripción de lo que hace tu proyecto].
+
+## Características 🚀
+
+- **Característica 1:** Descripción breve.
+- **Característica 2:** Descripción breve.
+- **Característica 3:** Descripción breve.
+
+## Instalación 🛠️
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/nombre-repositorio.git
