@@ -1,32 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Sebastián Salinas
 
-<!--
-**sebastian-salinas/sebastian-salinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Desarrollador Web Junior en crecimiento 🚀
 
-Here are some ideas to get you started:
+Estoy en un emocionante viaje de aprendizaje autodidacta en el desarrollo web, perfeccionando mis habilidades y construyendo proyectos propios. Apasionado por aprender nuevas tecnologías, solucionar problemas y crear experiencias web interactivas y funcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Proyectos Destacados
+- **[Nombre del Proyecto 1](URL del proyecto):** Breve descripción del proyecto, las tecnologías utilizadas y los desafíos que enfrentaste.
+- **[Nombre del Proyecto 2](URL del proyecto):** Breve descripción del proyecto, las tecnologías utilizadas y los desafíos que enfrentaste.
 
-# Bienvenidos a [Nombre del Repositorio] 🎉
+### 🌱 Actualmente aprendiendo
+- **JavaScript:** Mejorando mis habilidades en ES6+ y frameworks como React.js.
+- **HTML & CSS:** Trabajando en la creación de diseños responsivos y accesibles.
+- **Backend Basics:** Explorando Node.js y bases de datos para entender el desarrollo full-stack.
 
-¡Hola! Este es el repositorio de [Nombre del Proyecto]. Aquí encontrarás [una breve descripción de lo que hace tu proyecto].
+### 👯 Colaboraciones
+Siempre estoy buscando oportunidades para colaborar en proyectos de código abierto o para unirme a equipos donde pueda aprender y contribuir.
 
-## Características 🚀
+### 📫 Conéctate conmigo
+- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- [Twitter](https://twitter.com/tu-usuario)
+- [Correo Electrónico](mailto:tu-email@gmail.com)
 
-- **Característica 1:** Descripción breve.
-- **Característica 2:** Descripción breve.
-- **Característica 3:** Descripción breve.
+### ⚡ Datos Curiosos
+- Me encanta el ajedrez y soy un entusiasta de la tecnología y la innovación.
+- Disfruto resolver retos de programación en plataformas como [Codewars](https://www.codewars.com/).
 
-## Instalación 🛠️
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/nombre-repositorio.git
+¡Gracias por visitar mi perfil!
