@@ -6,7 +6,7 @@ Estoy en un emocionante viaje de aprendizaje autodidacta en el desarrollo web, p
 
 ### 🔭 Proyectos Destacados
 - **[ToolHub](https://toolhub-74b89.web.app/index.html):** Una plataforma web diseñada para centralizar y organizar herramientas esenciales de trabajo, mejorando la eficiencia y accesibilidad. Construida con HTML5, CSS3, y JavaScript, ToolHub ofrece una interfaz intuitiva y responsiva que facilita el acceso rápido a funciones clave. Los principales desafíos incluían la integración coherente de múltiples herramientas, asegurar un diseño responsivo y optimizar el rendimiento para una carga rápida y experiencia fluida.
-- **[Nombre del Proyecto 2](URL del proyecto):** Breve descripción del proyecto, las tecnologías utilizadas y los desafíos que enfrentaste.
+- **[Deni Cucina](https://denicucina.web.app/):** Blog de recetas diseñada con HTML5, CSS3 y JavaScript, alojada en Firebase Hosting. El proyecto ofrece una experiencia de usuario intuitiva, con un diseño moderno y funcionalidades dinámicas como menús desplegables y un buscador de recetas. Los principales desafíos fueron lograr un diseño responsive y optimizar la interacción del usuario en dispositivos móviles, manteniendo una navegación fluida y estética.
 
 ### 🌱 Actualmente aprendiendo
 - **HTML & CSS:** Trabajando en la creación de diseños responsivos y accesibles.
